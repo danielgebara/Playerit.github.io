@@ -7,6 +7,7 @@ Team Member Names:
 Andres Ayala
 Oscar Barbieri
 Shehzad Qureshi
+Daniel Gebara
 
 Product Name: Playerit
 
